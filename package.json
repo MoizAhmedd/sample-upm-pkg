@@ -1,0 +1,17 @@
+{
+    "name": "com.moizahmed.moizlogger",
+    "version": "1.0.0",
+    "displayName": "Sample Logger",
+    "description": "A package that does awesome things.",
+    "unity": "2020.3",
+    "author": {
+      "name": "Moiz Ahmed",
+      "email": "ahmedmoiz854@gmail.com",
+      "url": "https://github.com/MoizAhmedd"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/MoizAhmedd/sample-upm-pkg.git"
+    }
+  }
+  
